@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bella-cucina-9c8846e8.zappy5.app/sitemap.xml
